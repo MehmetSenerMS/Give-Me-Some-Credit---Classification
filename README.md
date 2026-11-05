@@ -1,4 +1,4 @@
-# Credit Risk Prediction — Explainable Stacking Ensemble
+# Credit Risk Prediction - Explainable Stacking Ensemble
 
 **An end-to-end machine learning study of serious credit delinquency: from leakage-safe preprocessing and imbalanced classification to ensemble learning, probability calibration, explainability, and Kaggle evaluation.**
 
